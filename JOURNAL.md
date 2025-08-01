@@ -5,6 +5,8 @@ description: "The 3d printer designed in 24 hours."
 created_at: "2025-07-31"
 ---
 
+### time spent: somewhere between 13 and 16 hours. 20 if you include my nap.
+
 ## The beginning
 
 I apparently misunderstood some stuff that Alex said. Since Undercity ended, I've been under the assumption that I can't really finish any of my projects, otherwise I won't get my travel stipend because most of them won't be built by August 7th.
@@ -96,5 +98,3 @@ I spent a bit more time just adding corner braces I designed for another project
 ![alt text](it-isnt-a-trident-i-swear-to-orpheus.png)
 
 I really like how it looks. I don't plan to enclose it as I don't print materials that need enclosures every often, but if need be I can lasercut some wood. I do think enclosing it in a full, custom wooden box like those epoxy-wood tables would be sick.
-
-### time spent: somewhere between 13 and 16 hours.
