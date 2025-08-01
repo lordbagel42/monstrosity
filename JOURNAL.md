@@ -30,7 +30,7 @@ CoreXY it is.
 I went with a simple 2020 extrusion frame. I was pretty heavily inspired by the [CoreCubeXY](https://github.com/timwieder1509/CoreCubeXY/tree/main) printer. I really like the way it did the motor mounts for the Z axis and how small the frame is for the print area.
 
 I spent a while tinkering with dimensions I liked until I arrived at this:
-![alt text](first-z-mount.png)
+![alt text](pictures/first-z-mount.png)
 
 A configurable, universal Z axis mount. I still really like this mount and will be using it in the future after some revision to include some better structural support.
 It can actually be played with [here](https://cad.onshape.com/documents/a25eb3393e530945c6474152/v/4382de752dc8200055f98b9c/e/8e87c3cf104fce85c0c0c45a). Open the configurations panel and you can swap between the configurations to see it.
@@ -38,7 +38,7 @@ It can actually be played with [here](https://cad.onshape.com/documents/a25eb339
 ## the beginning of the end (of my sanity)
 
 I spent a few more hours fiddling with things until I got to this:
-![alt text](the-first-bad-one.png)
+![alt text](pictures/the-first-bad-one.png)
 
 It's not good. Infact its quite bad. Part of my motivation for this machine was an idea I had going for a while with some of the other Hack Club 3D printing people: just steal the A1 Mini bed.
 
@@ -54,7 +54,7 @@ I didn't like this idea a whole lot, honestly. I wanted to be able to say that I
 
 So I ditched the bed and started looking around. At first I thought about trying to adapt the Annex K3 kinematic mounts to leadscrews, but that sounded like a lot more work than its worth. I also looked at the RatRig V-Core 4 mounts, but those were sized very differently from mine and it would also be a pain to use those. Eventually, I discovered the Voron Trident's kinematic mounts. I absolutely love how these mounts look and the system they use to go together, it's a very nice experience. Using them in CAD was....hard. But hey, I did eventually get it going.
 
-![alt text](bed-mount.png)
+![alt text](pictures/bed-mount.png)
 
 I also realized that there tends to be 2 systems for mounting the bed on a machine like this:
 
@@ -63,7 +63,7 @@ I also realized that there tends to be 2 systems for mounting the bed on a machi
 
 Sadly, I don't have an injection molder, so I decided to go with the T shaped extrusions. I also redesigned my motor mount to fit the Voron Z mounts. I entirely plan to make my own Z brackets at some point and it will be the first upgrade this machine gets, but I just don't have the time or willpower to do that right now. I have a lot of ideas about it now though after studying other machines.
 
-![alt text](z-gantry.png)
+![alt text](pictures/z-gantry.png)
 
 ## gantries? what black magic is this
 
@@ -71,7 +71,7 @@ I tried for a while to design a gantry but oh. my. god. That sucked. I hated try
 
 I almost quit at this point---and then I decided to check my discord. Parker had been telling me over and over to make a machine with the Monolith gantry and I asked about it in a few popular discord servers. People thought that it was a great idea. Monolith is easily my favorite gantry right now and I'm glad to be able to use it in this machine. It even leaves an upgrade path to a AWD gantry setup which would be killer!
 
-![alt text](monolith.png)
+![alt text](pictures/monolith.png)
 
 It's beautiful. It's absolutely beautiful. I've been wanting to get a voron 2.4 kit for my school and put Monolith on it just because I think it's amazing.
 
@@ -87,7 +87,7 @@ Toolheads are hard. I tried to make one off and on throughout this whole process
 
 Intro Xol. Xol has what I call the stealthburner effect: people like it because it looks cool. It also has a characteristic unlike the stealthburner: It's a good toolhead.
 
-![alt text](xol.png)
+![alt text](pictures/xol.png)
 
 I actually have a lot of ideas for custom toolheads. In the future, I hope to make a combination of the takeoff and kevender toolheads along with the Peopoly Lancer Long hotend. The Lancer Long is a very powerful hotend that can melt a lot of material in not a lot of time, while still looking good. Kevender and Takeoff both seem to have landed on the idea of just throwing a lot of CFM at parts, and I think that's funny. I have some ideas for a cpap kevender monstrosity that uses an industrial hepa air scrubber to pump absolutely insane amounts of air into the machine. This machine might actually end up one day having exclusively aux cooling and being made into a literal wind tunnel.
 
@@ -95,6 +95,6 @@ I actually have a lot of ideas for custom toolheads. In the future, I hope to ma
 
 I spent a bit more time just adding corner braces I designed for another project and making sure that the system all works together. The end result is this:
 
-![alt text](it-isnt-a-trident-i-swear-to-orpheus.png)
+![alt text](pictures/it-isnt-a-trident-i-swear-to-orpheus.png)
 
 I really like how it looks. I don't plan to enclose it as I don't print materials that need enclosures every often, but if need be I can lasercut some wood. I do think enclosing it in a full, custom wooden box like those epoxy-wood tables would be sick.
