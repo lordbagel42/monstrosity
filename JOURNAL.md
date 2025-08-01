@@ -79,7 +79,7 @@ The OnShape move face tool is interesting. I've never used it before right now a
 
 By this point I had spent about 10 hours on the machine and didn't feel great. I just wanted to be done with it.
 
-#### toolhead? no, I don't listen to tool very often
+## toolhead? no, I don't listen to tool very often
 
 Toolheads are hard. I tried to make one off and on throughout this whole process and was really struggling. I've been planning to use a Bambu X1C clone hotend since the start of this just because its cheap and I know it works great, but trying to design a toolhead and make everything fit was not going my way. Onshape doesn't do 3d sketches either, so actually creating ducting for it was hard. I knew that I was just making something destined to be replaced and that this would suck, so I decided to just use an existing toolhead.
 
