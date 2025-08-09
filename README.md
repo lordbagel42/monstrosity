@@ -2,7 +2,7 @@
 
 A printer designed in almost 24 hours.
 
-![alt text](renders/Monstrosity_full-transparent-cropped.png)
+![alt text](renders/Monstrosity_full-transparent-cropped.PNG)
 
 # but why?
 
