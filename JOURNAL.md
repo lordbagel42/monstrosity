@@ -98,3 +98,87 @@ I spent a bit more time just adding corner braces I designed for another project
 ![alt text](pictures/it-isnt-a-trident-i-swear-to-orpheus.png)
 
 I really like how it looks. I don't plan to enclose it as I don't print materials that need enclosures every often, but if need be I can lasercut some wood. I do think enclosing it in a full, custom wooden box like those epoxy-wood tables would be sick.
+
+## Sad news.
+
+### the day: 8/6/2025. i think.
+
+I got told no on my printer. Kinda fair and kinda expected, I used someone else's gantry, toolhead, and some other things.
+
+So I'm going to redo it, because I still want a printer.
+
+I've decided to move away from corexy and instead use double h-bot, mostly because it's funny and somewhat simple to design.
+
+![alt text](pictures/hbot-beltpath.png)
+
+h-bot and corexy have the same kinematics, but h-bot causes diabolical levels of racking because..... honestly I don't know it's just what I've been told. If you put 2 h-bots on top of each other and drive them from opposite sides though, the racking issue goes away. And if you use just a gigantic 15mm pulley rather than normal 6mm pulleys, you get effectively AWD with a very simple beltpath.
+
+## this took a long time.
+
+### like, almost 10 hours.
+
+![alt text](pictures/the-monstrosity-begins.png)
+
+I made this in a few hours. I haven't taken many photos of the process that aren't just asking advice for if I'm being stupid, so here it is. There's a couple issues here that I eventually fixed but caused a lot of issues lol.
+
+![alt text](pictures/gantry.png)
+
+This is the finished gantry. Initially I decided to not use external tensioning and rely only on toolhead tensioning, and I still plan to do that mostly. However, I've also made a modded version of the Monolith tensioners that _should_ (hopefully) work on this. I worry about getting the tensioning on the 2 sides equal, the monolith tensioners should help a lot with that issue, if need be. They will also let me put ridiculous tension levels onto this if I so wish. Eventually, I think I'll upgrade this to a single 15mm GT2 belt, which is rated somewhere around needing 100lbs of force--a lot. More tension means more speed. This gantry system is capable of very easily adding 4 more motors to allow for double-awd. If I implemented all of this, there's a decent chance it would be the fastest gantry in existence, even compared to Monolith.
+
+## toolhead time.
+
+### this took forever. the amount of caffeine required borderlines Undercity.
+
+#### somewhere around 12 hours total.
+
+I think the biggest issue in getting rejected was a lack of a custom toolhead like most printers used.
+
+I decided to move to the Peopoly Lancer Long hotend as it's more performant than the X1C hotend and the mounting is.... weird in a different way.
+
+I based my design off of the [Archetype Breakneck with 15mm CPAP hose](https://www.printables.com/model/1076195-archetype-breakneck-mod-lancer-snakebite-flatmount/files) initially.
+
+I kept the Xol mounting plate because honestly I just really like the way the belts attach to it.
+
+I also switched to using the ProtoXTruder rather than an LGX lite, as it's a bit cheaper to build and much more popular.
+
+I spent... so long figuring out how to get my ducts to work. It was mostly just trying things over and over until it worked. The loft tool wasn't working for some reason and it was overall a bad time.
+
+![alt text](pictures/og-ducts.png)
+![alt text](pictures/full-toolhead.png)
+
+After making this monstrosity of a toolhead, I decided to go to sleep and think about a better one. Online 3d printing communities told me that this was a horrible, horrible disgusting toolhead that wouldn't cool very well, especially at the speeds this printer will be capable of.
+
+So I went cpap. This hotend will be able to do 60mm/s^3 flow easily, CPAP is the only way I can think of to make bad ducts and still have it work.
+
+Enter this behemoth.
+
+![alt text](pictures/the-angley-ducts-in-progress.png)
+
+This was bad. I actually spent a lot of time on this thing, about 7 hours, and got it fully mounted and ready to go:
+
+![alt text](pictures/angleys.png)
+
+I still like this thing a bit. The brutalism aspect of it is nice.
+
+However, it's kinda bad. Air doesn't like angles. Instead of that, I decided to try Loft again with my newfound duct anchors available and it went much, much better:
+
+![alt text](pictures/lofties.png)
+
+This thing still needed a lot of work, but that's all super boring stuff. Basically just mounting. It was a pain but not interesting.
+
+Here's the finished product :3
+
+![alt text](pictures/toolhead.png)
+
+And that's basically it. I fought with the bed mounts for about an hour but I couldn't figure out how to mount the leadscrew nut and decided to just keep the Voron mounts. They're what I was trying to design the whole time anyway, but executed well. The magic of this printer is in its gantry, a fully custom and first of its kind double hbot. I'm quite proud of it.
+
+![](pictures/toolhead-front.png)
+![](pictures/toolhead-back.png)
+
+## One last thing.
+
+Since this printer is no longer made in 24 hours, I can't call it the bagel24 anymore. I'll make a printer in 24 hours sometime in the future, but it isn't this one.
+
+I give you: Monstrosity
+
+![alt text](renders/Monstrosity_full-transparent-cropped.PNG)
