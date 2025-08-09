@@ -182,3 +182,11 @@ Since this printer is no longer made in 24 hours, I can't call it the bagel24 an
 I give you: Monstrosity
 
 ![alt text](renders/Monstrosity_full-transparent-cropped.PNG)
+
+## update: i'm dumb
+
+So turns out I didn't implement double hbot correctly. The carriage has to be held on both sides by the upper and lower belt, not just one side. This is the thing that actually fixes the racking.
+
+So...
+
+Not going to deal with it right now. The tension should be capable of going high enough to eliminate a lot of the racking. If it's an issue, its a (somewhat) simple change.
