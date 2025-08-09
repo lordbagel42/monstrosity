@@ -41,7 +41,7 @@ Long story short, I didn't realize I still had time to submit things to Hack Clu
 The overall cost is $359.34. This does not include the steppers, as I already have most of them and can get many sponsored to me. If LDO is kind enough, I'll make a double AWD version of this, though I'll need a secondary mainboard for the bed.
 If PCBWAY is gracious and sponsors the bed, the full cost is $342.15.
 
-I will also potentially be buying a bdsensor for this if I don't use my crtouch. The cost of that is $39 but it's optional.
+I will also potentially be buying a bdsensor for this if I don't use my crtouch. The cost of that is $39 but it's optional. With that included, the new total is $398.34
 
 # wiring diagram
 
