@@ -190,3 +190,25 @@ So turns out I didn't implement double hbot correctly. The carriage has to be he
 So...
 
 Not going to deal with it right now. The tension should be capable of going high enough to eliminate a lot of the racking. If it's an issue, its a (somewhat) simple change.
+
+## k some updates because I wanted my renders to look nicer:
+
+I decided to add a skirt to the bottom with a lasercut base, gives me somewhere to keep electronics. I might use DIN rails in it but right now I'm going to just lasercut mounting points into it, should work pretty great honestly. Who needs configurability anyway lol
+
+I also added a couple LED mounts, most are just a basic baffle design that I obtained the basis of somewhere on Printables and can no longer find the source of (sorry!) but the H2D style status LED on the front is my own design. From testing my macropad, 1/8" white acrylic works really well to diffuse LED's, especially at absurd densities like 144 leds/m, so this uses that and will let me have a lot of status lights.
+
+Here's the view of the LED's (yes I am proud of this render its beautiful):
+
+![](renders-final/Monstrosity-upward.png)
+
+The new new new Monstrosity:
+
+![](renders-final/Monstrosity-full.png)
+
+also I fixed the issues with it not being actual double hbot. That was honestly a super quick change and nothing important happened so I didn't write much about it. There's just more bearings now.
+
+oh and here's how the toolhead looks, I might put some LED's into the ducts if I have extras and find a way to do it decently.
+
+![](renders-final/Monstrosity_nozzle.png)
+
+thanks yall :3
